@@ -22,11 +22,11 @@
 
 <br clear="both">
 
-<p align="left"></p>
+<p align="center"></p>
 
 ###
 
-<img align="right" height="200" src="https://raw.githubusercontent.com/MohammadRezaGholamizadeh/MohammadRezaGholamizadeh/main/Gifs/giphy8.gif"  />
+<img align="right" height="210" src="https://raw.githubusercontent.com/MohammadRezaGholamizadeh/MohammadRezaGholamizadeh/main/Gifs/giphy8.gif"  />
 
 ###
 
@@ -40,10 +40,22 @@
 
 ###
 
-<img align="left" height="200" src="https://raw.githubusercontent.com/MohammadRezaGholamizadeh/MohammadRezaGholamizadeh/main/Gifs/giphy3.gif"  />
+<img align="left" height="210" src="https://raw.githubusercontent.com/MohammadRezaGholamizadeh/MohammadRezaGholamizadeh/main/Gifs/giphy3.gif"  />
 
 ###
 
-<h4 align="left">5. **Adaptable and Agile**: In today's rapidly evolving tech landscape, adaptability is key. I embrace change and am quick to adapt to new tools, technologies, and methodologies. My agility allows me to navigate shifting priorities and deliver results in dynamic environments.<br><br>6. **Quality-focused**: I have a strong commitment to delivering high-quality software solutions. From initial design to final implementation, I adhere to best practices, conduct thorough testing, and strive for excellence in every aspect of the development process.<br><br>7. **Passion for Innovation**: Innovation drives progress, and I am deeply passionate about pushing the boundaries of what's possible. Whether it's introducing new features, optimizing existing processes, or exploring cutting-edge technologies, I am always looking for ways to innovate and elevate the user experience.</h4>
+<h4 align="left">5. Adaptable and Agile : In today's rapidly evolving tech landscape, adaptability is key. I embrace change and am quick to adapt to new tools, technologies, and methodologies. My agility allows me to navigate shifting priorities and deliver results in dynamic environments.<br><br>6. Quality-focused : I have a strong commitment to delivering high-quality software solutions. From initial design to final implementation, I adhere to best practices, conduct thorough testing, and strive for excellence in every aspect of the development process.<br><br>7. Passion for Innovation : Innovation drives progress, and I am deeply passionate about pushing the boundaries of what's possible. Whether it's introducing new features, optimizing existing processes, or exploring cutting-edge technologies, I am always looking for ways to innovate and elevate the user experience.</h4>
+
+###
+
+<p align="center"></p>
+
+###
+
+<img align="right" height="80" src="https://raw.githubusercontent.com/MohammadRezaGholamizadeh/MohammadRezaGholamizadeh/main/Gifs/giphy9.gif"  />
+
+###
+
+<h4 align="left">These qualities, combined with my technical expertise, make me a well-rounded and valuable asset to any team or project. I am dedicated to continuous growth and excellence in everything I do, and I look forward to contributing my skills and knowledge to make a meaningful impact.</h4>
 
 ###
