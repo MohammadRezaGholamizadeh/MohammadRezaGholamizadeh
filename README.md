@@ -2,15 +2,15 @@
 
 ###
 
-<img align="left" height="200" src="https://raw.githubusercontent.com/MohammadRezaGholamizadeh/MohammadRezaGholamizadeh/main/Gifs/giphy8.gif"  />
+<img align="left" height="180" src="https://raw.githubusercontent.com/MohammadRezaGholamizadeh/MohammadRezaGholamizadeh/main/Gifs/giphy8.gif"  />
 
 ###
 
-<img align="left" height="200" src="https://raw.githubusercontent.com/MohammadRezaGholamizadeh/MohammadRezaGholamizadeh/main/Gifs/giphy9.gif"  />
+<img align="left" height="180" src="https://raw.githubusercontent.com/MohammadRezaGholamizadeh/MohammadRezaGholamizadeh/main/Gifs/giphy9.gif"  />
 
 ###
 
-<img align="left" height="200" src="https://raw.githubusercontent.com/MohammadRezaGholamizadeh/MohammadRezaGholamizadeh/main/Gifs/giphy3.gif"  />
+<img align="left" height="180" src="https://raw.githubusercontent.com/MohammadRezaGholamizadeh/MohammadRezaGholamizadeh/main/Gifs/giphy3.gif"  />
 
 ###
 
