@@ -33,3 +33,17 @@
 <h4 align="left">3. Team Player : While I excel as an individual contributor, I also value teamwork and collaboration. I believe that diverse perspectives and collective effort lead to stronger outcomes. I enjoy fostering a supportive and inclusive work environment where everyone's contributions are valued.<br><br>4. Effective Communicator : Clear and concise communication is essential in any professional setting. Whether it's explaining technical concepts to non-technical stakeholders, collaborating with cross-functional teams, or providing updates on project progress, I prioritize effective communication to ensure alignment and success.</h4>
 
 ###
+
+<br clear="both">
+
+<p align="left"></p>
+
+###
+
+<img align="left" height="200" src="https://raw.githubusercontent.com/MohammadRezaGholamizadeh/MohammadRezaGholamizadeh/main/Gifs/giphy3.gif"  />
+
+###
+
+<h4 align="left">5. **Adaptable and Agile**: In today's rapidly evolving tech landscape, adaptability is key. I embrace change and am quick to adapt to new tools, technologies, and methodologies. My agility allows me to navigate shifting priorities and deliver results in dynamic environments.<br><br>6. **Quality-focused**: I have a strong commitment to delivering high-quality software solutions. From initial design to final implementation, I adhere to best practices, conduct thorough testing, and strive for excellence in every aspect of the development process.<br><br>7. **Passion for Innovation**: Innovation drives progress, and I am deeply passionate about pushing the boundaries of what's possible. Whether it's introducing new features, optimizing existing processes, or exploring cutting-edge technologies, I am always looking for ways to innovate and elevate the user experience.</h4>
+
+###
