@@ -4,7 +4,7 @@
 
 ###
 
-<img align="right" height="400" src="https://raw.githubusercontent.com/MohammadRezaGholamizadeh/MohammadRezaGholamizadeh/main/Gifs/giphy.gif"  />
+<img align="right" height="400" margin-right= "20px" src="https://raw.githubusercontent.com/MohammadRezaGholamizadeh/MohammadRezaGholamizadeh/main/Gifs/giphy.gif"  />
 
 ###
 
