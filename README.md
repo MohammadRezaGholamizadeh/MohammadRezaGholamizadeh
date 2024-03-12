@@ -12,7 +12,7 @@
 
 ###
 
-<img align="left" height="250" src="https://raw.githubusercontent.com/MohammadRezaGholamizadeh/MohammadRezaGholamizadeh/main/Gifs/giphy1.gif"  />
+<img align="left" height="200" src="https://raw.githubusercontent.com/MohammadRezaGholamizadeh/MohammadRezaGholamizadeh/main/Gifs/giphy1.gif"  />
 
 ###
 
