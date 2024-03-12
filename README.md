@@ -2,15 +2,15 @@
 
 ###
 
-<img align="left" height="180" src="https://raw.githubusercontent.com/MohammadRezaGholamizadeh/MohammadRezaGholamizadeh/main/Gifs/giphy8.gif"  />
+<img align="left" height="170" src="https://raw.githubusercontent.com/MohammadRezaGholamizadeh/MohammadRezaGholamizadeh/main/Gifs/giphy8.gif"  />
 
 ###
 
-<img align="left" height="180" src="https://raw.githubusercontent.com/MohammadRezaGholamizadeh/MohammadRezaGholamizadeh/main/Gifs/giphy9.gif"  />
+<img align="left" height="170" src="https://raw.githubusercontent.com/MohammadRezaGholamizadeh/MohammadRezaGholamizadeh/main/Gifs/giphy9.gif"  />
 
 ###
 
-<img align="left" height="180" src="https://raw.githubusercontent.com/MohammadRezaGholamizadeh/MohammadRezaGholamizadeh/main/Gifs/giphy3.gif"  />
+<img align="left" height="170" src="https://raw.githubusercontent.com/MohammadRezaGholamizadeh/MohammadRezaGholamizadeh/main/Gifs/giphy3.gif"  />
 
 ###
 
@@ -29,15 +29,77 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="50" alt="csharp logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="50" alt="dotnetcore logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="50" alt="dot-net logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="50" alt="microsoftsqlserver logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="50" alt="sqlite logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=redis" height="50" alt="redis logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50" alt="postgresql logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="50" alt="mongodb logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="50" alt="mysql logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="50" alt="oracle logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=visualstudio" height="50" alt="visualstudio logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" alt="vscode logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuget/nuget-original.svg" height="50" alt="nuget logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="50" alt="azure logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50" alt="docker logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html5 logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="css3 logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="50" alt="bootstrap logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="git logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" height="50" alt="xd logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="50" alt="figma logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="50" alt="firebase logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="50" alt="vim logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="50" alt="slack logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="50" alt="unity logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="50" alt="linkedin logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50" alt="github logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=stackoverflow" height="50" alt="stackoverflow logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=solidjs" height="50" alt="solid logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=sentry" height="50" alt="sentry logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=regex" height="50" alt="regex logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=postman" height="50" alt="postman logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=hibernate" height="50" alt="hibernate logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=eclipse" height="50" alt="eclipseide logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=devto" height="50" alt="devto logo"  />
 </div>
 
 ###
