@@ -1,7 +1,7 @@
 <br clear="both">
 
 <h1 align="left">Hey 👋 What's up?</h1>
-<img align="right" height="320" src="https://raw.githubusercontent.com/MohammadRezaGholamizadeh/MohammadRezaGholamizadeh/main/Gifs/giphy.gif"  />
+<img align="right" height="300" src="https://raw.githubusercontent.com/MohammadRezaGholamizadeh/MohammadRezaGholamizadeh/main/Gifs/giphy.gif"  />
 
 ###
 
