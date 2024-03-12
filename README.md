@@ -14,6 +14,12 @@
 
 ###
 
+<div align="center">
+  <img src="https://profile-counter.glitch.me/MohammadRezaGholamizadeh/count.svg?"  />
+</div>
+
+###
+
 <br clear="both">
 
 <h1 align="left">Hey 👋 What's up?</h1>
