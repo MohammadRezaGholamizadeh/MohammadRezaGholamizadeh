@@ -1,5 +1,3 @@
-<br clear="both">
-
 <h1 align="left">Hey 👋 What's up?</h1>
 
 ###
@@ -152,7 +150,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/MohammadRezaGholamizadeh/MohammadRezaGholamizadeh/output/snake.svg" alt="Snake animation" />
+<img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 
 ###
 
