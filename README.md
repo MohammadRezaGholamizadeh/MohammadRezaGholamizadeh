@@ -52,10 +52,12 @@
 
 ###
 
-<img align="right" height="80" src="https://raw.githubusercontent.com/MohammadRezaGholamizadeh/MohammadRezaGholamizadeh/main/Gifs/giphy9.gif"  />
+<h4 align="left">These qualities, combined with my technical expertise, make me a well-rounded and valuable asset to any team or project. I am dedicated to continuous growth and excellence in everything I do, and I look forward to contributing my skills and knowledge to make a meaningful impact.</h4>
 
 ###
 
-<h4 align="left">These qualities, combined with my technical expertise, make me a well-rounded and valuable asset to any team or project. I am dedicated to continuous growth and excellence in everything I do, and I look forward to contributing my skills and knowledge to make a meaningful impact.</h4>
+<div align="center">
+  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=MohammadRezaGholamizadeh&theme=dark" alt="Layout with last medium posts"  />
+</div>
 
 ###
