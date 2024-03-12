@@ -4,7 +4,7 @@
 
 ###
 
-<img align="right" height="400" margin-right= "20px" src="https://raw.githubusercontent.com/MohammadRezaGholamizadeh/MohammadRezaGholamizadeh/main/Gifs/giphy.gif"  />
+<img align="right" height="300" src="https://raw.githubusercontent.com/MohammadRezaGholamizadeh/MohammadRezaGholamizadeh/main/Gifs/giphy.gif"  />
 
 ###
 
@@ -22,6 +22,6 @@
 
 ###
 
-<h4 align="left">1. **Passionate Learner**: I have an insatiable curiosity for learning. Whether it's exploring new programming languages, diving into emerging technologies, or mastering innovative development methodologies, I thrive on expanding my knowledge base.</h4>
+<h4 align="left">1. **Passionate Learner**: I have an insatiable curiosity for learning. Whether it's exploring new programming languages, diving into emerging technologies, or mastering innovative development methodologies, I thrive on expanding my knowledge base.<br><br>2. **Problem Solver**: I have a knack for dissecting complex problems and finding elegant solutions. My analytical mindset coupled with creative thinking allows me to approach challenges from different angles and devise effective strategies to overcome them.<br><br>3. **Team Player**: While I excel as an individual contributor, I also value teamwork and collaboration. I believe that diverse perspectives and collective effort lead to stronger outcomes. I enjoy fostering a supportive and inclusive work environment where everyone's contributions are valued.</h4>
 
 ###
