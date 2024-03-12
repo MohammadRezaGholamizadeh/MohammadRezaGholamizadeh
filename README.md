@@ -4,7 +4,7 @@
 
 ###
 
-<img align="right" height="350" src="https://raw.githubusercontent.com/MohammadRezaGholamizadeh/MohammadRezaGholamizadeh/main/Gifs/giphy.gif"  />
+<img align="right" height="200" src="https://raw.githubusercontent.com/MohammadRezaGholamizadeh/MohammadRezaGholamizadeh/main/Gifs/giphy.gif"  />
 
 ###
 
@@ -18,7 +18,7 @@
 
 ###
 
-<img align="left" height="350" src="https://raw.githubusercontent.com/MohammadRezaGholamizadeh/MohammadRezaGholamizadeh/main/Gifs/giphy1.gif"  />
+<img align="left" height="200" src="https://raw.githubusercontent.com/MohammadRezaGholamizadeh/MohammadRezaGholamizadeh/main/Gifs/giphy1.gif"  />
 
 ###
 
