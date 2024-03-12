@@ -19,3 +19,17 @@
 <h4 align="left">In addition to my technical skills and professional experience, here are some more aspects about me:<br><br>1. Passionate Learner : I have an insatiable curiosity for learning. Whether it's exploring new programming languages, diving into emerging technologies, or mastering innovative development methodologies, I thrive on expanding my knowledge base.<br><br>2. Problem Solver : I have a knack for dissecting complex problems and finding elegant solutions. My analytical mindset coupled with creative thinking allows me to approach challenges from different angles and devise effective strategies to overcome them.</h4>
 
 ###
+
+<br clear="both">
+
+<p align="left"></p>
+
+###
+
+<img align="right" height="200" src="https://raw.githubusercontent.com/MohammadRezaGholamizadeh/MohammadRezaGholamizadeh/main/Gifs/giphy8.gif"  />
+
+###
+
+<h4 align="left">3. Team Player : While I excel as an individual contributor, I also value teamwork and collaboration. I believe that diverse perspectives and collective effort lead to stronger outcomes. I enjoy fostering a supportive and inclusive work environment where everyone's contributions are valued.<br><br>4. Effective Communicator : Clear and concise communication is essential in any professional setting. Whether it's explaining technical concepts to non-technical stakeholders, collaborating with cross-functional teams, or providing updates on project progress, I prioritize effective communication to ensure alignment and success.</h4>
+
+###
