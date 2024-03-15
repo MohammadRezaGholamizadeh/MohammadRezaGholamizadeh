@@ -73,21 +73,13 @@
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="50" alt="firebase logo"  />
   <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="50" alt="vim logo"  />
-  <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="50" alt="slack logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="50" alt="unity logo"  />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="50" alt="linkedin logo"  />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50" alt="github logo"  />
   <img width="15" />
   <img src="https://skillicons.dev/icons?i=stackoverflow" height="50" alt="stackoverflow logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=solidjs" height="50" alt="solid logo"  />
   <img width="15" />
   <img src="https://skillicons.dev/icons?i=sentry" height="50" alt="sentry logo"  />
   <img width="15" />
@@ -99,7 +91,6 @@
   <img width="15" />
   <img src="https://skillicons.dev/icons?i=eclipse" height="50" alt="eclipseide logo"  />
   <img width="15" />
-  <img src="https://skillicons.dev/icons?i=devto" height="50" alt="devto logo"  />
 </div>
 
 ###
