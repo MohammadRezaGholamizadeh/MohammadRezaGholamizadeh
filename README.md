@@ -44,20 +44,18 @@ With deep expertise in **C#**, **.NET Core**, **ASP.NET**, and **Entity Framewor
 
 **Languages**  
 - C#  
-- SQL  
-- JavaScript  
+- SQL
 
 **Frameworks**  
 - .NET Core  
-- ASP.NET MVC / Web API  
+- ASP.NET Core / MVC / Web API  
 - Entity Framework  
 - Blazor  
 
 **Tools**  
 - Visual Studio  
 - Git  
-- Docker  
-- Azure DevOps  
+- Docker 
 
 **Methodologies**  
 - Clean Architecture  
